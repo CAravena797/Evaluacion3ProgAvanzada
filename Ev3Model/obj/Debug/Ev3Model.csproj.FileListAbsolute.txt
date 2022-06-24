@@ -1,0 +1,6 @@
+C:\Users\FSYCA\source\repos\Evaluacion3ProgAvanzada\Ev3Model\bin\Debug\Ev3Model.dll
+C:\Users\FSYCA\source\repos\Evaluacion3ProgAvanzada\Ev3Model\bin\Debug\Ev3Model.pdb
+C:\Users\FSYCA\source\repos\Evaluacion3ProgAvanzada\Ev3Model\obj\Debug\Ev3Model.csproj.AssemblyReference.cache
+C:\Users\FSYCA\source\repos\Evaluacion3ProgAvanzada\Ev3Model\obj\Debug\Ev3Model.csproj.CoreCompileInputs.cache
+C:\Users\FSYCA\source\repos\Evaluacion3ProgAvanzada\Ev3Model\obj\Debug\Ev3Model.dll
+C:\Users\FSYCA\source\repos\Evaluacion3ProgAvanzada\Ev3Model\obj\Debug\Ev3Model.pdb
